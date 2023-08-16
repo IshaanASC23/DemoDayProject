@@ -1,0 +1,94 @@
+body {
+    background-color: #bbd1ea;
+    height: 100%;
+}
+html {
+    height:20%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #2d728f;
+}
+
+.nav_text {
+    font-size: 30px;
+
+}
+
+.main_div {
+    height: 100px;
+
+    display: flex;
+    justify-content:center;
+    font-size: 85px;
+    
+    
+}
+
+.main_text {
+    height: 100px;
+
+    margin-top: 70px;
+
+    display: flex;
+    justify-content:center;
+    font-size: 35px;
+
+    border-radius: 25px;
+    text-decoration: lightblue;
+    color: #2d728f;
+    padding: 50px;
+    justify-content:center;
+}
+
+.main_contacts {
+    display: flex;
+    justify-content: center;
+    color: rgb(180, 219, 232);
+    font-size: 35px;
+    background-color: #2d728f;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 10px;
+}
+
+
+
+#logo {
+    width: 200px;
+    height: 150px;
+}
+
+#welcome {
+    font-size: 50px;
+}
+
+.nav_text {
+    font-size: 30px;
+}
+
+.contact_info {
+    font: 30px Garamond;
+    background-color: rgb(15, 101, 123);
+    margin-left: 15%;
+    margin-right: 15%;
+    
+    border-radius: 25px;
+    text-decoration: lightblue;
+    color: lightskyblue;
+
+    padding: 50px;
+}
+
+#about {
+    font-size: 300px;
+
+}
+
+#contact_names {
+    margin-right: 50px;
+}

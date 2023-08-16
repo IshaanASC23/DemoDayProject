@@ -1,0 +1,61 @@
+body {
+    background-color: #bbd1ea;
+    height: 100%;
+}
+html {
+    height:20%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #2d728f;
+}
+
+.nav_text {
+    font-size: 30px;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+#vision {
+    font-size: 90px;
+    font-family: Georgia;
+    height: 5%;
+}
+
+#logo {
+    width: 200px;
+    height: 150px;
+}
+
+#welcome {
+    font-size: 50px;
+}
+
+.main_text {
+    font: 30px Garamond;
+    background-color: #2d728f;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+    border-radius: 25px;
+    text-decoration: #f786aa underline;
+    color: #d3fff3;
+
+    padding: 50px;
+    display: block;
+}
+
+.main_div {
+    height:100%;
+}
+
+#p1 {
+    margin-left: 25%;
+    margin-right: 25%;
+}

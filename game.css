@@ -1,0 +1,36 @@
+body {
+    background-color: #bbd1ea;
+    height: 100%;
+}
+html {
+    height:20%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #2d728f;
+}
+ 
+.nav_text {
+    font-size: 30px;
+}
+
+#logo {
+    width: 200px;
+    height: 150px;
+}
+
+#welcome {
+    font-size: 50px;
+}
+
+.nav_text {
+    font-size: 30px;
+}
+
+.button {
+    display: none;
+}
+

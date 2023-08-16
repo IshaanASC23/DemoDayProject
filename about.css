@@ -1,0 +1,73 @@
+body {
+    background-color: #bbd1ea;
+    height: 100%;
+}
+html {
+    height:20%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #2d728f;
+}
+
+.nav_text {
+    font-size: 30px;
+}
+
+#logo {
+    width: 200px;
+    height: 150px;
+}
+
+#welcome {
+    font-size: 50px;
+}
+
+.nav_text {
+    font-size: 30px;
+}
+
+.main_div {
+    height:100%;
+    display: flex;
+    justify-content:center;
+}
+
+#about {
+    font-size: 70px;
+    font-family: Georgia;
+    height: 5%;
+    justify-content: center;
+}
+
+.main_text {
+    font: 30px Garamond;
+    background-color: rgb(66, 114, 144);
+    margin-left: 15%;
+    margin-right: 15%;
+    
+    border-radius: 25px;
+    text-decoration: rgb(108, 94, 255) underline;
+    color: #d3fff3;
+
+    padding: 50px;
+}
+ 
+#p1 {
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#p2 {
+    display:grid;
+    justify-items: center;
+}
+
+#more_info {
+    font-size: 70px;
+    font-family: Georgia;
+    height: 5%;
+    justify-content: center;
+}
